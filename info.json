@@ -1,0 +1,210 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/index.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 1398,
+            "children": [
+                {
+                    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 58515,
+                    "children": [
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "img/fa-brands-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "img/fa-regular-400.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "img/fa-solid-900.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 1566,
+                    "children": [
+                        {
+                            "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/https://traversymedia.com/downloads/cover.jpg",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://traversymedia.com/downloads/video.mov",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "www-17sucai-com-jakuzbm9",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/index.html",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/index.html",
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "date": "Thu, 27 Jan 2022 08:22:33 GMT",
+                "last-modified": "Fri, 22 Oct 2021 06:30:38 GMT",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"61725a8e-599\"",
+                "strict-transport-security": "max-age=31536000",
+                "ali-swift-global-savetime": "1643271753",
+                "via": "cache19.l2cn3023[54,53,200-0,M], cache12.l2cn3023[54,0], cache12.l2cn3023[55,0], kunlun5.cn2364[67,66,200-0,M], kunlun2.cn2364[69,0]",
+                "x-cache": "MISS TCP_MISS dirn:-2:-2",
+                "x-swift-savetime": "Thu, 27 Jan 2022 08:22:33 GMT",
+                "x-swift-cachetime": "0",
+                "timing-allow-origin": "*",
+                "eagleid": "7250bb1616432717533914186e"
+            }
+        },
+        "time": {
+            "start": "2022-01-27T08:22:31.810Z",
+            "end": "2022-01-27T08:23:21.540Z"
+        },
+        "remark": [],
+        "title": "CodePen - Video Landing Page",
+        "ip": "114.80.187.105",
+        "url": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/index.html",
+        "main": "index.html",
+        "domain": "www.17sucai.com",
+        "origin": "https://www.17sucai.com",
+        "totalSize": "61.5 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://www.17sucai.com/preview/2413762/2021-10-22/%E8%A7%86%E9%A2%91%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2/%E2%95%A9%E2%95%99%E2%95%9E%E2%95%A1%E2%95%A1%E2%95%9F%E2%94%AC%E2%95%9C%E2%95%A5%E2%94%82%E2%94%9C%C2%B5/video-landing-page/index.html",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
